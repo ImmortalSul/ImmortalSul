@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working for a startup and on personal projects<br>👩‍🎓 Studying Computer Science<br>🌱 I’m currently learning Data Architecture and Data Science in the near Future<br>💬 Ask me about anything I can help you with!<br><br>Alt Acc For College
+#👋 Hi, I'm Sulaiman!
+💻 Passionate tech enthusiast with experience in full-stack development, specializing in Next.js, TypeScript, and Tailwind CSS.<br>👩‍🎓🚀 Building innovative SaaS platforms and contributed to open source projects.<br>🎨 Worked as a web developer, software developer, and design lead for three different startups, including an F1 Indian team.<br>♟️ Chess player and a continuous learner, currently diving deeper into Golang and refining my Git skills.<br>🔄 This is my second GitHub account after losing access to my first one. Excited to continue sharing and collaborating on new projects!<br>🎓 B-Tech student<br>
 
 
 ## 🌐 Socials:
