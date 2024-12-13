@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sulaiman!
-
+<p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 # 💫 About Me:
 💻 Tech enthusiast specializing in Next.js, TypeScript, and Tailwind CSS. Passionate about building SaaS platforms like Inquirix and collaborating in open-source projects.<br>👨‍💻 Founder of Troika Hub—a creative lab for 3D and VFX. Previously worked across three startups in roles from developer to design lead, including an Indian F1 team.<br>♟️ Chess player and a continuous learner, currently diving deeper into Golang and Rust. <br>
 
