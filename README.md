@@ -5,6 +5,7 @@
 - 💻 Tech enthusiast specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**. Passionate about building SaaS platforms like **Inquirix** and contributing to **open-source projects**.
 - 🔧 Founder of **Troika Hub** — a creative lab for **3D and VFX**. Previously worked in roles ranging from **developer** to **design lead** across three startups, including an **Indian F1 team**.
 - ♟ Chess player and a continuous learner, currently exploring **Golang** and **Rust**.
+- 🦀 Chewing glass whilst learning Solana and Rust development
 
 ---
 
