@@ -13,12 +13,12 @@
 Here are some of my key projects demonstrating my expertise across various domains:
 
 ### 🛠️ Software & SaaS:
-- **Scrapix** – Visual web scraper (**[Repo](#https://github.com/ImmortalSul/Scrapix)**)
+- **Scrapix** – Visual web scraper (**[Repo](https://github.com/ImmortalSul/Scrapix)**)
 - **Optix** – Task automation software (**[Repo](#)**)
-- **Troika V1** – Initial version of the Troika Hub platform (**[Repo](#https://github.com/ImmortalSul/Troika)**)
-- **Troika V2** – Upgraded and improved Troika Hub (**[Repo](#https://github.com/ImmortalSul/TroikaV2)**)
-- **Inquirix** – Advanced pdf inquiry management platform (**[Repo](#https://github.com/ImmortalSul/Inquirix)**)
-- **Modifio** – File conversion tool (**[Repo](#https://github.com/ImmortalSul/modifio)**)
+- **Troika V1** – Initial version of the Troika Hub platform (**[Repo](https://github.com/ImmortalSul/Troika)**)
+- **Troika V2** – Upgraded and improved Troika Hub (**[Repo](https://github.com/ImmortalSul/TroikaV2)**)
+- **Inquirix** – Advanced pdf inquiry management platform (**[Repo](https://github.com/ImmortalSul/Inquirix)**)
+- **Modifio** – File conversion tool (**[Repo](https://github.com/ImmortalSul/modifio)**)
 - **Hackathon-winning Chat App** – Secure real-time communication platform (**[Repo](#)**)
 
 ### 🌐 Web3 & Blockchain:
