@@ -1,4 +1,4 @@
-# ✋ Hi, I'm Sulaiman!
+# ✋ [Hi, I'm Sulaiman!](https://github.com/ImmortalSul)
 <p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
 ## ✨ About Me:
@@ -13,18 +13,18 @@
 Here are some of my key projects demonstrating my expertise across various domains:
 
 ### 🛠️ Software & SaaS:
-- **Scrapix** – Visual web scraper (**[Repo](https://github.com/ImmortalSul/Scrapix)**)
-- **Optix** – Task automation software (**[Repo](#)**)
-- **Troika V1** – Initial version of the Troika Hub platform (**[Repo](https://github.com/ImmortalSul/Troika)**)
-- **Troika V2** – Upgraded and improved Troika Hub (**[Repo](https://github.com/ImmortalSul/TroikaV2)**)
-- **Inquirix** – Advanced pdf inquiry management platform (**[Repo](https://github.com/ImmortalSul/Inquirix)**)
-- **Modifio** – File conversion tool (**[Repo](https://github.com/ImmortalSul/modifio)**)
-- **Hackathon-winning Chat App** – Secure real-time communication platform (**[Repo](#)**)
+- [**Scrapix**](https://github.com/ImmortalSul/Scrapix) – Visual web scraper
+- [**Optix**](#) – Task automation software
+- [**Troika V1**](https://github.com/ImmortalSul/Troika) – Initial version of the Troika Hub platform
+- [**Troika V2**](https://github.com/ImmortalSul/TroikaV2) – Upgraded and improved Troika Hub
+- [**Inquirix**](https://github.com/ImmortalSul/Inquirix) – Advanced inquiry management platform
+- [**Modifio**](https://github.com/ImmortalSul/modifio) – File conversion tool
+- [**Hackathon-winning Chat App**](#) – Secure real-time communication platform
 
 ### 🌐 Web3 & Blockchain:
-- **Achievemint** – Solana-based on-chain achievement system (**[Repo](#)**)
-- **Votee** – Decentralized voting app on Solana (**[Repo](#)**)
-- **Multiple Anchor/Solana Mini Projects** (**[Repo](#)**)
+- [**Achievemint**](https://github.com/ImmortalSul/Achievemint) – Solana-based on-chain achievement system
+- [**Votee**](https://github.com/ImmortalSul/Solana-Final-Project) – Decentralized voting app on Solana
+- [**Multiple Anchor/Solana Turbin3 Projects**](https://github.com/solana-turbin3/Q1_25_Builder_ImmortalSul)
 
 ---
 
